@@ -1,4 +1,4 @@
-// An arry that stores 7-segment values
+// An arry that stores bit pattern for 7-segment values
 int array[10]={0x01,0x30,0x12,0x06,0x4c,0x24,0x20,0x0f,0x00,0x04};
 
 void setup() {
